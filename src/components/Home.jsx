@@ -14,7 +14,7 @@ const Home = () => {
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I'm a Web Developer
           </h2>
-          <p className="text-gray-500 py-5 max-w-md">
+          <p className="text-gray-500 py-4 max-w-md">
             I am a full stack developer for about half a year of experience in building scalable products.
             <br />
             I have participated in a number of tech programs where I acquired both technical and soft skills. I have also acquired high level
