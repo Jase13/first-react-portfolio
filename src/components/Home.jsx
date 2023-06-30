@@ -15,7 +15,15 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          User-minded Web Developer prioritizes usability and adaptability during projects. Designs sites and apps to attract users with aesthetically pleasing interfaces and exceptional UX elements. Comfortable working within large-scale collaborations or on individually-developed assets.
+            I am a full stack developer for about half a year of experience in building scalable products.
+
+            I have participated in a number of tech programs where I acquired both technical and soft skills. I have also acquired high level
+            programming skills from online courses. I am a self-taught software developer with a strong discipline to learn, improve, and evolve.
+
+            When I am not coding, I am either playing Video game, watching a movie, reading a book, at the gym or playing the guirtar. Other times
+            I am reading or learning a new language or framework.
+
+            Currently looking for entry level as Back-end or front-end position at the moment
           </p>
 
           <div>
