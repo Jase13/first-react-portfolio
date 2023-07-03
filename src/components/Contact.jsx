@@ -19,7 +19,7 @@ const contact = () => {
                 type='text'
                  name='name' 
                  placeholder='Enter your name' 
-                className='p-2 bg-transparent bg-blue-700 border-4 rounded-md
+                className='p-2 bg-transparent bg-blue-800 border-4 rounded-md
                  text-pink-400 
                  focus:outline-none' 
                 />
@@ -27,7 +27,7 @@ const contact = () => {
                  type='text' 
                  name='email' 
                  placeholder='Enter your email' 
-                className='my-4 p-2 bg-transparent bg-blue-700 border-4 rounded-md
+                className='my-4 p-2 bg-transparent bg-blue-800 border-4 rounded-md
                  text-pink-400 
                  focus:outline-none' 
                 />
@@ -36,7 +36,7 @@ const contact = () => {
                 placeholder='Enter your message'
                 rows="10" 
                 className='p-2
-                bg-transparent bg-blue-700 border-4 rounded-md
+                bg-transparent bg-blue-800 border-4 rounded-md
                  text-pink-400
                 focus:outline-none'>
                 </textarea>
